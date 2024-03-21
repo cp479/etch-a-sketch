@@ -1,7 +1,13 @@
 # etch-a-sketch
+<h1>V2.0</h1>
+<ul>
+<li> Build base for grid
+</li>
+</ul>
+
 <h1>V1.1.2</h1>
 <ul>
-<li> Add more jss to create grid
+<li> Comment to create grid
 </li>
 </ul>
 
