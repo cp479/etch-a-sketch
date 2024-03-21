@@ -1,6 +1,12 @@
 # etch-a-sketch
 <h1>V2.0</h1>
 <ul>
+<li> Add some styling
+</li>
+</ul>
+
+<h1>V2.0</h1>
+<ul>
 <li> Build base for grid
 </li>
 </ul>
