@@ -1,5 +1,11 @@
 # etch-a-sketch
-<h1>V2.0</h1>
+<h1>V2.1.1</h1>
+<ul>
+<li> Fix html and style
+</li>
+</ul>
+
+<h1>V2.1</h1>
 <ul>
 <li> Add some styling
 </li>

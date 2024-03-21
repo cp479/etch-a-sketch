@@ -40,7 +40,7 @@ newGridBtn.addEventListener('click', function (){ // new board button to start a
             boardCont.removeChild(boardCont.lastChild);
         }
         
-        gridSize = prompt("Please enter a number between 1 and 100 to create the board size"); // user input for size
+        gridSize = prompt("What size do you want the grid to be? Please enter a number between 1 and 100 to create the board size"); // user input for size
         
         while (gridSize < 1 || gridSize > 100 || isNaN(gridSize)){
             gridSize = prompt("Invalid Entry. Please enter a number between 1 and 100 to create the board size");
